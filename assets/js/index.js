@@ -1,4 +1,4 @@
-const skills = '<div class="incoming"><h1>Incoming ...</h1></div>'
+const skills = '<div class="skills"><div class="skillsContent" id="skillsContent"><div class="skill"><i class="fab fa-chrome"></i><p>Web Developpement<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, numquam?</p></div><div class="skill"><i class="fas fa-database"></i><p>Database<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, numquam?</p></div><div class="skill"><i class="fas fa-laptop-code"></i><p>Software<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, numquam?</p></div></div></div>'
 const contact = '<div class="incoming"><h1>Incoming ...</h1></div>'
 const aboutme = '<div class="text"><p class="name">Hi, my name is Jeremy.</p><p>I am a student a Epitech - European Institute of Technology<br>Passionate about new technologies, I am constantly looking to improve my skills.</p></div>'
 
